@@ -1,4 +1,3 @@
-
 spring:
   profiles: order1
   application:
